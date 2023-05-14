@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "blog.md", title: "Blog"}
-  - {icon: https://github.com/Rass0x4f/rass0x4f.github.io/blob/master/icon.jpg}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:fattaharrasyid90@gmail.com"}
