@@ -1,5 +1,5 @@
 ---
-title:  "zyzyzyyzyzyzyzyyzyzyzy"
+title:  "zyzyzyyzyzyzyzyyzyzy"
 mathjax: true
 layout: post
 categories: media
