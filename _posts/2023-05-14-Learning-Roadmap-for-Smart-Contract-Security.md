@@ -5,8 +5,6 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/Rass0x4f/rass0x4f.github.io/blob/master/roadmap.jpg">
-
 ## A. Prerequisites
 ### 1) Learn Basic Programming
 - [FreeCodeCamp JavaScript Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
