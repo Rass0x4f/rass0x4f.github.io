@@ -1,10 +1,7 @@
 ---
 layout: page
-title: "Blog"
+title: "Hi!"
 ---
-
-
-Hi!
 
 
 Website Under Maintenance, please check again later!
