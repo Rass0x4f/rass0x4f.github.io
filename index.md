@@ -1,5 +1,5 @@
 ---
-itle: "Hi!"
+title: "Hi!"
 layout: default
 ---
 
