@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src="https://github.com/Rass0x4f/rass0x4f.github.io/blob/10fe56c80538aa04ba6d49ac384394ecd9c6d313/roadmap.jpg">
+<img src="https://github.com/Rass0x4f/rass0x4f.github.io/blob/master/roadmap.jpg">
 
 ## A. Prerequisites
 ### 1) Learn Basic Programming
