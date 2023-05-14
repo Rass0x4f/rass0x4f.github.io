@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ""
+title: "Hi!"
 ---
 
-Hi! Website Under Maintenance, please check again later!
+  Website Under Maintenance, please check again later!
 
