@@ -1,5 +1,6 @@
 ---
 title: "Hi!"
+permalink: "/home/"
 layout: default
 ---
 
