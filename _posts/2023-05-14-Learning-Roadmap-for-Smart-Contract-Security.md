@@ -5,13 +5,16 @@ layout: post
 categories: media
 ---
 
+# Smart Contract Auditor Learning Roadmap Step by Step in 2023
 ## A. Prerequisites
 ### 1) Learn Basic Programming
 - [FreeCodeCamp JavaScript Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 
 ### 2) Blockchain Basics
 - [Blockchain 101 + BTC & ETH Whitepaper](https://youtube.com/playlist?list=PL5hZ7cADAJkdIVAcINQdsnfRTZZj6hjwB)
-- [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+- Ethereum:
+  - [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+  - [EVM (Ethereum Virtual Machine)](https://www.zaryabs.com/evm-learning-resources/)
 - [Patrick Collins 32 hours FreeCodeCamp Course on YT](https://youtu.be/gyMwXuJrbJQ) (learn just Blockchain Basics section)
 
 ## B. Main
@@ -59,7 +62,9 @@ categories: media
       - High and medium risk findings (duplicate)
       - High and medium risk findings (unique)
   - Common Issues:
-    > Reference: https://consensys.github.io/smart-contract-best-practices/attacks/
+    > Reference 1: https://consensys.github.io/smart-contract-best-practices/attacks/
+     
+    > Reference 2: https://swcregistry.io/
     
      - General Issues: 
         - https://twitter.com/KKat7531/status/1643710428470452225
@@ -94,5 +99,10 @@ categories: media
   - [Patrick Collins audit process](https://youtu.be/TmZ8gH-toX0)
 
 
-### Another Audit Learning Core Points: 
+### Tips & Audit Learning Core Points: 
   - https://twitter.com/cryptostaker22/status/1653856172611612673
+  - https://twitter.com/bytes032/status/1659533925176180736
+
+
+### Another Smart Contract Learning Roadmap for reference:
+  - https://github.com/razzorsec/AuditorsRoadmap
