@@ -11,12 +11,3 @@ Hi, folks. I go by the pseudonym "rass0x4f" on twitter and this is my personal w
 <div id="custom-substack-embed"></div>
 
 
-<script>
-  window.CustomSubstackWidget = {
-    substackUrl: "fthar.substack.com",
-    placeholder: "Enter Your Email Here",
-    buttonText: "Subscribe",
-    theme: "orange"
-  };
-</script>
-<script src="https://substackapi.com/widget.js" async></script>
