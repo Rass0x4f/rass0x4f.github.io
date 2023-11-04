@@ -13,8 +13,8 @@ Hi, folks. I go by the pseudonym "rass0x4f" on twitter and this is my personal w
 
 <script>
   window.CustomSubstackWidget = {
-    substackUrl: "Fthar.substack.com",
-    placeholder: "example@gmail.com",
+    substackUrl: "fthar.substack.com",
+    placeholder: "Enter Your Email Here",
     buttonText: "Subscribe",
     theme: "orange"
   };
